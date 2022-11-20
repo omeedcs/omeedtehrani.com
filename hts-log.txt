@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Sun, 20 Nov 2022 10:18:59 at https://www.omeedtehrani.com
+(winhttrack https://www.omeedtehrani.com -O "/Users/omeedtehrani/websites/omeedtehrani.com" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 seconds : 19 links scanned, 18 files written (1636920 bytes overall) [304303 bytes received at 15215 bytes/sec], 1649869 bytes transferred using HTTP compression in 19 files, ratio 16%
+(No errors, 0 warnings, 0 messages)
